@@ -1,7 +1,5 @@
 # Laptop Price Prediction
 
-![Laptop Price Prediction]
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
