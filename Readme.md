@@ -35,6 +35,6 @@ The Laptop Price Prediction project aims to develop a machine learning model tha
 To get started with the project, clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/yourusername/laptop-price-prediction.git
+git clone https://github.com/Rohityadav3637/laptop_price_prediction.git
 cd laptop-price-prediction
 pip install -r requirements.txt
