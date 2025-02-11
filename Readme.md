@@ -28,8 +28,10 @@ The Laptop Price Prediction project aims to develop a machine learning model tha
 - Pandas
 - NumPy
 - Scikit-learn
-- Matplotlib / Seaborn
-- Jupyter Notebook / Streamlit (if applicable)
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Streamlit
 
 ## Installation
 To get started with the project, clone the repository and install the required packages:
